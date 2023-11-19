@@ -1,3 +1,5 @@
 user_name= input("Enter your name: ")
 user_age= input("Enter your age: ")
 print("Your name is ", user_name , "and your age is ", user_age)
+user_uni_name= input("Enter your University: ")
+print("So your name is ", user_name , "your age is ", user_age , "and you read at",user_uni_name)
