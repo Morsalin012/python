@@ -12,3 +12,8 @@ for i in range(0,11):
     print(sum)
 print(sum)
 
+
+# print every letter
+a="Morsalin"
+for letter in a:
+    print(letter)
